@@ -1,6 +1,6 @@
 <?php  
 
-$conn = mysqli_connect('localhost','root','','login_record_system');
+$conn = mysqli_connect('remotemysql.com','nbBwIE9nVd','2M1KU0vefJ','nbBwIE9nVd');
 
 $output = '<table id="table_data" class="table table-bordered table-hover mt-3 table-sm">
 				<thead class="bg-info">
